@@ -1,0 +1,55 @@
+{
+  "name": "internet-shop-react-redux",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "",
+  "dependencies": {
+    "@progress/kendo-dialog-react-wrapper": "^2018.2.516",
+    "@progress/kendo-theme-default": "^2.53.1",
+    "ccxt": "^1.13.1",
+    "classnames": "^2.2.5",
+    "elemental": "^0.6.1",
+    "jquery": "^3.3.1",
+    "json-server": "^0.12.2",
+    "ramda": "^0.23.0",
+    "react": "^15.6.2",
+    "react-alert": "^4.0.2",
+    "react-awesome-modal": "^2.0.3",
+    "react-bootstrap": "^0.32.1",
+    "react-count-to": "^0.10.0",
+    "react-dom": "^15.6.2",
+    "react-google-auth": "^0.4.1",
+    "react-helmet": "^5.2.0",
+    "react-loader-spinner": "^2.1.0",
+    "react-md": "^1.3.1",
+    "react-mdl": "^1.11.0",
+    "react-rangeslider": "^2.2.0",
+    "react-redux": "^5.0.4",
+    "react-responsive-modal": "^3.0.1",
+    "react-router": "3.0.5",
+    "react-router-redux": "^4.0.8",
+    "react-toastify": "^4.0.0-rc.5",
+    "react-toastify-khawer": "^3.0.1",
+    "react-tradingview-widget": "^1.2.5",
+    "redux": "^3.6.0",
+    "redux-devtools-extension": "^2.13.0",
+    "redux-thunk": "^2.2.0",
+    "semantic-ui-css": "^2.3.1",
+    "semantic-ui-react": "^0.79.1",
+    "socket.io": "^2.1.0",
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "6.9.4",
+    "npm": "3.10.10"
+  }
+}

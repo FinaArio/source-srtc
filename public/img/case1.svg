@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve" width="512px" height="512px" class=""><g><path style="fill:#FFFDFD" d="M456,128h-32.408C419.416,56.736,360.288,0,288,0S156.584,56.736,152.408,128H120  c-22.056,0-40,17.944-40,40v144h16v-61.088l157.616,49.728l4.816-15.264L96,234.136V168c0-13.232,10.768-24,24-24h336  c13.232,0,24,10.768,24,24v66.168l-162.448,52.216l4.888,15.232L480,250.976V408c0,13.232-10.768,24-24,24H176v16h280  c22.056,0,40-17.944,40-40V168C496,145.944,478.056,128,456,128z M288,16c63.472,0,115.448,49.56,119.592,112h-24  C379.504,78.808,338.24,40,288,40s-91.504,38.808-95.592,88h-24C172.552,65.56,224.528,16,288,16z M367.592,128H208.408  C212.44,87.632,246.592,56,288,56S363.568,87.632,367.592,128z" data-original="#333333" class="active-path" data-old_color="#FDFBFB"/><g>
+	<path style="fill:#FFA64D" d="M304,328h-32c-13.232,0-24-10.768-24-24v-56h80v56C328,317.232,317.232,328,304,328z" data-original="#FFA64D" class=""/>
+	<circle style="fill:#FFA64D" cx="96" cy="400" r="96" data-original="#FFA64D" class=""/>
+</g><g>
+	<path style="fill:#FFFDFD" d="M80,368h32c4.416,0,8,3.584,8,8h16c0-13.232-10.768-24-24-24h-8v-16H88v16h-8   c-13.232,0-24,10.768-24,24v8c0,13.232,10.768,24,24,24h32c4.416,0,8,3.584,8,8v8c0,4.416-3.584,8-8,8H80c-4.416,0-8-3.584-8-8H56   c0,13.232,10.768,24,24,24h8v16h16v-16h8c13.232,0,24-10.768,24-24v-8c0-13.232-10.768-24-24-24H80c-4.416,0-8-3.584-8-8v-8   C72,371.584,75.584,368,80,368z" data-original="#333333" class="active-path" data-old_color="#FDFBFB"/>
+	<rect x="248" y="344" style="fill:#FFFDFD" width="16" height="16" data-original="#333333" class="active-path" data-old_color="#FDFBFB"/>
+	<rect x="280" y="344" style="fill:#FFFDFD" width="16" height="16" data-original="#333333" class="active-path" data-old_color="#FDFBFB"/>
+	<rect x="312" y="344" style="fill:#FFFDFD" width="16" height="16" data-original="#333333" class="active-path" data-old_color="#FDFBFB"/>
+</g></g> </svg>
